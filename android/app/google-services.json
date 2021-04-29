@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310107947550",
+    "project_id": "pcodeartshop",
+    "storage_bucket": "pcodeartshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310107947550:android:ec4edeba0272547026640f",
+        "android_client_info": {
+          "package_name": "com.artshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310107947550-r37h4fvjgcpfhidkb40h3aue12th4nc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artshop",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "310107947550-d7acqa3m2hvn4a4rg8lu7d3d2cfnue9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWflTM8xzhoIOiQTdBW1wr9gsspNLgfBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310107947550-d7acqa3m2hvn4a4rg8lu7d3d2cfnue9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310107947550-mise5ao0o2m0gmqcif492fqfs12rikj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.artshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
